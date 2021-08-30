@@ -1,5 +1,4 @@
 Raindrops on roses.
-Whiskers on kittens.
 
 A few more changes to this file.
 
